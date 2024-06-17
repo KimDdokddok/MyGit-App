@@ -10,3 +10,7 @@ function logout() {
 function fixbugA() {
     console.log('fixbugA');
 }
+
+function fixbugB() {
+    console.log('fixbugB');
+}
